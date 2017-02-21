@@ -1,6 +1,6 @@
 body {
-    margin: 10px auto;
-    width: 60%;
+    margin: 5px auto;
+    width: 50%;
 }
 
 #mainContainer {
@@ -13,10 +13,7 @@ body {
 }
 body {
     background-color: rgb(182,255,249);
-}
 
-h1 {
-    background-color: #00ff00;
 
 }
 nav ul, footer ul, p {
