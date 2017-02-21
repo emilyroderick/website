@@ -4,10 +4,10 @@ body {
 
 #mainContainer {
     position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    top: 10;
+    bottom: 15;
+    left: 10;
+    right: 50;
     overflow: auto;
 }
 body {
