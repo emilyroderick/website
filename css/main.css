@@ -1,6 +1,15 @@
 body {
     margin: 10px auto;
-    width: 80%;
+    width: 60%;
+}
+
+#mainContainer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: auto;
 }
 body {
     background-color: rgb(182,255,249);
