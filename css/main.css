@@ -46,6 +46,9 @@ ul.posts {
     font-size: 18px;
     text-decoration: underline;
 }
+ul.posts:hover {
+    text-decoration: bold;
+}
 
 ul.posts li {
     list-style: none;
