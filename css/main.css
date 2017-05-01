@@ -1,6 +1,11 @@
 body {
     margin: 15px,30px;
 }
+    div {
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+}
 body {
     background-color: rgb(182,255,249);
 
