@@ -54,3 +54,15 @@ ul.posts li {
     list-style: none;
     text-decoration: underline;
 }
+
+.blue {
+  width: 20vmin;
+  height: 30vmin;
+  background-image: url("hthfm.jpeg");
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
