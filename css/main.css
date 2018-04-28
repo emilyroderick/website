@@ -9,7 +9,7 @@ body {
 }
 nav ul, footer ul, p {
     font-family:'Courier New';
-    padding: 0px;
+    padding: 30px,30px,30px,30px;
     list-style: none;
     font-weight: none;
     margin-right: 30px;
